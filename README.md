@@ -1,0 +1,2 @@
+# Cropper_of_empty_space_on_images
+Created with CodeSandbox
